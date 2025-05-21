@@ -1,0 +1,13 @@
+```gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.Python
+env/
+venv/
+ENV/
+reports/allure-results/
